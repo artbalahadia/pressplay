@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&display=swap');
+
+/* div.ui.segment, input {
+    background-color: #f26a8d !important;
+    border-color: none;
+    font-family: 'Lato', sans-serif !important;
+}
+
+input {
+    color: black !important;
+    font-family: 'Lato', sans-serif !important;
+} */
+
+.search-bar.ui.segment {
+    background-color: #f26a8d;
+    font-family: 'Lato', sans-serif;
+    padding: .3em .3em;
+}
+
+input.text-input {
+    font-family: 'Lato', sans-serif !important;
+}
+
